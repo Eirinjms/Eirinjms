@@ -22,8 +22,10 @@ class EirinSolheim:
             "Unreal Engine"
         ]
         
-    def projects():
-        Twist_Joint_Tool
-        Modular_Rig_System
-        Mesh_Check_Tool
+    def projects(self):
+        return [
+            "Twist Joint Tool",
+            "Modular Rig System",
+            "Mesh Check Tool"
+        ]
 ```
