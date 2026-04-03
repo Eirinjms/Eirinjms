@@ -29,5 +29,4 @@ class EirinSolheim:
             "Mesh Check Tool"
         ]
 ```
-![Eirin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eirinjms&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eirinjms&layout=compact&theme=dark)
+![E![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Eirinjms&show_icons=true&theme=tokyonight)
