@@ -29,4 +29,4 @@ class EirinSolheim:
             "Mesh Check Tool"
         ]
 ```
-![E![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Eirinjms&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Eirinjms&layout=compact&theme=tokyonight)
