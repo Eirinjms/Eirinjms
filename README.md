@@ -22,8 +22,8 @@ class EirinSolheim:
             "Unreal Engine"
         ]
         
-        ## 🛠️ Projects
-        - Twist Joint Tool
-        - Limb Rig System
-        - Reverse Foot Setup
+    def projects():
+        Twist_Joint_Tool
+        Modular_Rig_System
+        Mesh_Check_Tool
 ```
