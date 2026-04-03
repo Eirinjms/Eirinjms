@@ -1,4 +1,4 @@
-# Eirin Solheim 
+<h1 align="center">Eirin Solheim</h1>
 
 ```python
 class EirinSolheim:
