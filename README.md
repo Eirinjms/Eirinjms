@@ -21,4 +21,9 @@ class EirinSolheim:
             "PySide",
             "Unreal Engine"
         ]
+        
+        ## 🛠️ Projects
+        - Twist Joint Tool
+        - Limb Rig System
+        - Reverse Foot Setup
 ```
