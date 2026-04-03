@@ -1,16 +1,22 @@
-## Hi there 👋
+# Eirin Solheim 
 
-<!--
-**Eirinjms/Eirinjms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+class EirinSolheim:
+    def __init__(self):
+        self.role = "Tech Artist (Student)"
+        self.focus = ["Rigging", "Tool Development"]
 
-Here are some ideas to get you started:
+        self.education = "Escape Studios - Character & Creature Creation"
+        self.location = "London"
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+        self.software = [
+            "Maya",
+            "ZBrush",
+            "Marmoset Toolbag",
+            "Substance 3D Painter"
+        ]
+
+        self.learning = [
+            "Python",
+            "PySide",
+            "Unreal Engine"
+        ]
